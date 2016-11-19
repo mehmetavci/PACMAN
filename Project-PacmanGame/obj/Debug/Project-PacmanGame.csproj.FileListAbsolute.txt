@@ -1,0 +1,21 @@
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.exe.config
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.exe
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.pdb
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.csprojResolveAssemblyReference.cache
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project_PacmanGame.FormPacman.resources
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project_PacmanGame.Properties.Resources.resources
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.csproj.GenerateResource.Cache
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.exe
+c:\users\mehmetavci\documents\visual studio 2015\Projects\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.pdb
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.exe.config
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.exe
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.pdb
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.exe
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.pdb
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.csprojResolveAssemblyReference.cache
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project_PacmanGame.FormPacman.resources
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project_PacmanGame.Properties.Resources.resources
+C:\Users\MehmetAVCI\Desktop\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.csproj.GenerateResource.Cache
+C:\Users\MehmetAVCI\Desktop\New folder (2)\Güncel\Project-PacmanGame\Project-PacmanGame\bin\Debug\Project-PacmanGame.exe.config
+C:\Users\MehmetAVCI\Desktop\New folder (2)\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.exe
+C:\Users\MehmetAVCI\Desktop\New folder (2)\Güncel\Project-PacmanGame\Project-PacmanGame\obj\Debug\Project-PacmanGame.pdb
