@@ -377,6 +377,7 @@ namespace Project_PacmanGame
             GhostMove(ghost3Move, ghost3);
         }
 
+        //Ghost Move
         public void GhostMove(string directionGhost, PictureBox ghost)
         {
 
